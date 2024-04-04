@@ -1,5 +1,7 @@
 # Media Converter
 
+![Captura de tela](https://raw.githubusercontent.com/edimilsonassis/media-converter-csharp/feb516892d8c31ec645b561de84d6e1a459713e9/print/Captura%20de%20tela%202024-04-04%20091511.png)
+
 Este projeto é uma aplicação Windows Forms que permite ao usuário selecionar arquivos, visualizar detalhes desses arquivos e convertê-los para um formato específico usando o ffmpeg.
 
 ## Funcionalidades
